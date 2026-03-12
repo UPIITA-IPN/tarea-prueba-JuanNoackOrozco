@@ -1,2 +1,2 @@
-
-python suma.py
+#!/bin/bash
+python3 suma.py
